@@ -2,10 +2,10 @@
 /**
  * Plugin Name: Shipping Zone by Drawing addon for WooCommerce Delivery Slots
  * Plugin URI: https://iconicwp.com/products/woocommerce-delivery-slots/
- * Description: Bridge between Shipping Zone by Drawing addon and WooCommerce Delivery Slots by IconicWP
+ * Description: Bridge between Shipping Zone by Drawing addon and WooCommerce Delivery Slots by Kadence
  * Version: 1.0.0
- * Author: Iconic
- * Author URI: https://iconicwp.com
+ * Author: Kadence
+ * Author URI: https://www.kadencewp.com/
  * Author Email: support@iconicwp.com
  * WC requires at least: 2.6.14
  * WC tested up to: 4.6.1
